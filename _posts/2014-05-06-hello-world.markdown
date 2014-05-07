@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Hello world
 layout: post
 ---
@@ -35,7 +35,7 @@ Para mais informações, acesse o repositório do desenvolvedor no [github](http
 
 Este pacote possui como premissa facilitar a documentação do código. Basta digitar, por exemplo, o atalho "/**" e pressionar "Tab" para surgir um bloco de documentação. Quando utilizado em funções ou métodos, ele irá listar, automaticamente, todos os nomes dos parâmetros e valores retornados, para uma descrição sobre o seus tipos de dados e contextos.
 
-{% img https://github-camo.global.ssl.fastly.net/415148aecc6dac2e5ebb12b7f7584f4a8744eca4/687474703a2f2f73706164676f732e6769746875622e696f2f7375626c696d652d6a73646f63732f696d616765732f66756e6374696f6e2d74656d706c6174652e676966 %}
+
 
 Existem diversos atalhos e a lista de linguagens suportadas inclui Javascript, PHP, ActionScript, CoffeeScript, Java, Groovy, Objective C, C, C++ e Rust.
 Veja mais detalhes no [github](https://github.com/spadgos/sublime-jsdocs).
@@ -51,7 +51,7 @@ Para mais informações e atalhos acessem o repositório do pacote, [github](htt
 
 Quem nunca digitou "background-color" em um arquivo css e não tinha nem idéia de qual cor utilizar? Se você se encaixa nesta descrição, este pacote é para você. Basta acessar o atalho "ctrl + shift + c" (no Windows) que uma palheta de cores, padrão do sistema operacional, irá aparecer.
 
-{% img http://i5.minus.com/iY1DDCRG5TsyR.png %}
+
 
 Acesse a página do desenvolvedor para mais informações, [site](http://weslly.github.io/ColorPicker/) and learn more.
 
@@ -59,7 +59,7 @@ Acesse a página do desenvolvedor para mais informações, [site](http://weslly.
 
 ## Soda Theme
 
-{% img http://buymeasoda.github.io/soda-theme/images/soda-dark-screenshot.png 'Soda Theme' %}
+
 
 Além de todas as customizações que o Sublime oferece, você ainda pode instalar temas adicionais. Um dos mais famosos é o [Soda Theme](http://buymeasoda.github.io/soda-theme/). O pacote vem com duas opções de cores, Soda Light, que se baseia em cores mais claras, e o Soda Dark, que é mais escuro.
 
