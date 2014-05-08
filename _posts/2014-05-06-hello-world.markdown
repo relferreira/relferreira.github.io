@@ -2,6 +2,7 @@
 published: true
 title: Deixando o Sublime melhor ainda!
 layout: post
+comments: true
 ---
 Sublime text 2 é um incrível editor de texto, utilizado para a escrita de código em diversas linguagens. Na área de desenvolvimento Web ele ganhou muito força devido a diversas funções que facilitam muito a edição rápida de códigos e devido aos *Packages*, que estendem os poderes do editor. Este post irá indicar alguns packages para melhorar a sua experiência com esta ferramenta.
 <!-- more -->
