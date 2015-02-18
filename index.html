@@ -21,8 +21,8 @@ published: true
       {% else %}
         {{ post.content | strip_html | truncatewords:100 }}
       {% endif %}
-      <a href="{{ post.url }}">Leia mais...</a>
     </div>
+    <a href="{{ post.url }}">Leia mais...</a>
   </div>
   {% endfor %}
 </div>
